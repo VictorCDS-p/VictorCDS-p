@@ -27,10 +27,6 @@
 
 ## 📊 GitHub Stats
 
----
-
-## 📊 GitHub Stats
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorCDS-p\&theme=dark\&hide_border=false)
 
 
