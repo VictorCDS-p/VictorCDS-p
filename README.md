@@ -1,18 +1,18 @@
-## 👋 Olá!
+# 👋 Olá, eu sou Victor Cardoso
 
-Olá! Meu nome é **Victor Cardoso** e sou um desenvolvedor com habilidades em **HTML, CSS, JavaScript, Java, Python, MySQL, Node.js, React e Git**, além de experiência técnica em informática.
+![Victor Cardoso](https://img.shields.io/badge/Developer-VictorCardoso-blue?style=for-the-badge)
 
+Sou desenvolvedor com habilidades em **HTML, CSS, JavaScript, Java, Python, MySQL, Node.js, React e Git**, além de experiência em informática.
 Sou certificado como **AWS Cloud Practitioner** e estou sempre em busca de **aprendizado contínuo**.
 
-Atualmente, estou focado em expandir meus conhecimentos como **programador e em Cloud**, buscando oportunidades como **Programador Júnior, Trainee ou Estagiário**.
-
-Se você procura um profissional dedicado, apaixonado por tecnologia e com sede de conhecimento, vamos nos conectar no **LinkedIn** e trocar ideias!
+Atualmente, busco oportunidades como **Programador Júnior, Trainee ou Estagiário**, com foco em desenvolvimento e Cloud.
+Se você procura um profissional dedicado, apaixonado por tecnologia e com sede de conhecimento, vamos nos conectar!
 
 ---
 
-## 🌐 Socials
+## 🌐 Me Conecte
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/victorfcardosos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://linkedin.com/in/victorfcardosos)
 
 ---
 
@@ -35,15 +35,26 @@ Se você procura um profissional dedicado, apaixonado por tecnologia e com sede 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=VictorCDS-p\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VictorCDS-p\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCDS-p\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+![Victor Cardoso GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorCDS-p\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorCDS-p\&theme=dark\&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCDS-p\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=VictorCDS-p\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=VictorCDS-p\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
+---
 
+### 🚀 Projetos Online
+
+* **Frontend do Parkia:** [https://parkia-frontend.vercel.app](https://parkia-frontend.vercel.app)
+* **Backend do Parkia (API):** [https://parkia-backend.onrender.com](https://parkia-backend.onrender.com)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
 
