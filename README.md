@@ -1,7 +1,3 @@
-Perfeito! Podemos combinar **o seu texto pessoal** com os badges de tecnologias que você já tinha, **adicionando todas as novas tecnologias mencionadas** (Java, React, Git, AWS Cloud Practitioner) e mantendo o visual do README moderno. Aqui está uma versão reorganizada e completa:
-
----
-
 ## 👋 Olá!
 
 Olá! Meu nome é **Victor Cardoso** e sou um desenvolvedor com habilidades em **HTML, CSS, JavaScript, Java, Python, MySQL, Node.js, React e Git**, além de experiência técnica em informática.
