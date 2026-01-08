@@ -1,14 +1,6 @@
-## 👋 Olá!
+# 👋 Olá, eu sou Victor Cardoso
 
-Olá! Meu nome é **Victor Cardoso** e sou um desenvolvedor com habilidades em **HTML, CSS, JavaScript, Java, Python, MySQL, Node.js, React e Git**, além de experiência técnica em informática.
-
-Sou certificado como **AWS Cloud Practitioner** e estou sempre em busca de **aprendizado contínuo**.
-
-Atualmente, estou focado em expandir meus conhecimentos como **programador e em Cloud**, buscando oportunidades como **Programador Júnior, Trainee ou Estagiário**.
-
-Se você procura um profissional dedicado, apaixonado por tecnologia e com sede de conhecimento, vamos nos conectar no **LinkedIn** e trocar ideias!
-
----
+![Victor Cardoso](https://img.shields.io/badge/Developer-VictorCardoso-blue?style=for-the-badge)
 
 ## 🌐 Socials
 
@@ -33,20 +25,3 @@ Se você procura um profissional dedicado, apaixonado por tecnologia e com sede 
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=VictorCDS-p\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VictorCDS-p\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCDS-p\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=VictorCDS-p\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
